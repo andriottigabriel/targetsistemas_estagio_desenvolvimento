@@ -10,6 +10,8 @@ imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA? */
 
+// programa compilado utilizando Node
+
 let INDICE = 13; // Define a variavel
 let SOMA = 0;// Define a variavel
 let K = 0;// Define a variavel

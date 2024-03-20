@@ -9,6 +9,9 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 previamente definido no código;
 */
 
+// programa compilado utilizando Node
+
+
 // Define funcao chamada pertenceSequenciaFibonacci que verifica se um número pertence à sequência de Fibonacci
 function pertenceSequenciaFibonacci(numero) {
     let a = 0; // inicializa a variável a com o primeiro número da sequência 0
@@ -41,3 +44,4 @@ if (pertenceSequenciaFibonacci(numeroInformado)) {
 } else {
     console.log(numeroInformado + " não pertence à sequência de Fibonacci."); // imprime na tela caso o número não pertença 
 }
+
